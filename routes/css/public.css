@@ -21,6 +21,7 @@
     border: 1px solid #C1C1BB;
     border-radius: 3px;
     margin-bottom: 30px;
+    resize: none;
 }
 
 .blog_public .btn {
